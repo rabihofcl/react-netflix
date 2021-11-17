@@ -31,7 +31,7 @@ function RowPost(props) {
             }else {
                 console.log('array empty');
             }
-        })
+        })  
       }
     return (
         <div className='row'>
